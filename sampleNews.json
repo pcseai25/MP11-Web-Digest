@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The New York Times",
+            "title": "Real Estate Brothers, Oren and Tal Alexander, Arrested and Charged With Sex Trafficking - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnZBR2s2dWJvdkNwdlhTcjR5ZUFybGhmX19TR0ZGZjZ4TlJmZE5yRGI2VWMzcDM3MmtYYU5zV1MtQU9zblRZREdPTjlNTHF3WVVDbkFxNzByM0tmaHlWcUI4VGlwSUN3aC04dmk5OUxaczFfNDRqMXNIM3NMczY5V1hxZ1FTOVEtTDczeEVHbXd5QTRQYmhYNF9GN29zX2ZJWjQ4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T18:11:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "NASA believes it understands why Ingenuity crashed on Mars - Ars Technica",
+            "description": "Engineers are already beginning to plan for possible follow-on missions.",
+            "url": "https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/1_PIA26238_ingentuity-ripples_cropped.width-1320-1152x648-1733936851.jpg",
+            "publishedAt": "2024-12-11T17:44:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Afghan blast kills key minister, shocking Taliban - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWxDVlpwNFZXMkxzR0RUa3FWWWVmRXpzZzBsbmNSS0I1Z0RNb2R1R2NhTF9yRGVQUmNDXzRaT05oZWdHdHN0cVNtSk10S0xKdGlGZmhhR1gwa2k2cUxLdUpjQ1FsOFJySU11cXE2bFZFbWpISV9TMlNJM2tKRFBMTWlOZTk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:41:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "What to know about iOS 18.2\u2032s new AI tools, from Genmoji to ChatGPT - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQVlIdEQ1eEl5TTNPSGJfSk9HU1JUZ2xVbnVObkVSTG9jWjBQNjUwUkg1QVgwQ19vLWEyLUl6QW9DeVhENVpKaE11MWE0TjBUb0RyVjdac2J1aGd3QTRKRXM0NlVWV2c3SV9VRWFkb0p3XzVfNjNaSk4xVXEwSzkwS1N0T0JfN3NFMk5pbXdVaHpsOHM?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:32:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Eric Todisco",
+            "title": "\u2018Golden Bachelor\u2019 Gerry Turner has cancer, says diagnosis had \u2018huge bearing\u2019 on Theresa Nist split - New York Post ",
+            "description": "Gerry Turner revealed that he has a form of blood cancer called Waldenstr\u00f6m\u2019s macroglobulinemia.",
+            "url": "https://nypost.com/2024/12/11/entertainment/golden-bachelor-gerry-turner-reveals-he-has-cancer/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/12/newspress-collage-fqi87agm1-1733936876626.jpg?quality=75&strip=all&1733918914&w=1024",
+            "publishedAt": "2024-12-11T17:14:00Z",
+            "content": "\u201cThe Golden Bachelor\u201d star Gerry Turner has cancer. \r\nThe 72-year-old shared the health news in an interview with People magazine published Wednesday.\r\nTurner received his diagnosis weeks before he s\u2026 [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Albertsons gives up on Kroger merger and sues the grocery chain for failing to secure deal - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjQ5Zm80SzUxVUtiZ3BpLUdmcFdkZ0dIUTdDNGxsTUo5TmFGeVhKWjluOHc5dl9FSDFaQWJVc2J0MFVwdzZSUXB4TkpYVVhpX25hN3l3cWZ5Ul9kNVBGSlFjMHo1bFZibzNEbjJoRjRGSU1MZm82Z0h2TjR4NTV6aWFnSQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "CNN Poll: Most Americans approve how Trump is handling his return to the White House - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWR3dXdLVUxoQm5yVEFIcEE3cmNwd0VqalNaV3N2TV9lWTYwWHVyMXZNTU9aTm1EOF9MVmcyNnJWaGFIb2VCbHh6XzRIWnhPOWYzRW1EVmZnYS1LM25lOUU3enFtNVBiM0oyOTVuQ2pVdFpPdTAyYzZBRmZDRmRldGhB0gF4QVVfeXFMTzZfNVdORWxHNkxIOXQwSzdHTWh2WWJjSXJtV1I5bVpKeVNnWDRoMHQzQjR2S0tpN2VxV1RjTTFEMTJhODJOSXNzcmdDZFYzcjJUbjNMWGc2cTR5MUUwdUx2b3BZT1plbjJ3Q29hZC1HV3pjeVpnbEdD?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T17:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro, Dominic Patten",
+            "title": "Sundance 2025: JLo, Sly Stone, Putin, Ayo Edebiri, Andr\u00e9 Holland, & Ex-NZ PM Jacinda Ardern Films Among Park City Festival Offerings - Deadline",
+            "description": "Sundance 2025's just released feature film & episodic programs reveal a changing festival full of stars, politics & possibly the next big thing",
+            "url": "http://deadline.com/2024/12/sundance-film-festival-lineup-2025-movies-1236200107/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/12/Sundance-2025-.jpg?w=1024",
+            "publishedAt": "2024-12-11T17:00:00Z",
+            "content": "The Sundance Film Festival is considering a big move for 2027, but the 2025 feature film and episodic programs find the Robert Redford founded gathering very much in its traditional wheelhouse with a\u2026 [+51246 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hollywood Reporter",
+            "title": "Super Bowl Halftime Headache? How Jay-Z in the Headlines Could Impact Roc Nation\u2019s NFL Deal - Hollywood Reporter",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM2RzaHZnaTZGbXRWWlNFYVFybXdMMEtUQ01pSE5lbTdqU2pUSm05MGFUUUxJUG16RUNsTjlhSDZ0Zm4yXzBkOHltSHNpTjh1dk1peUw5MTZJeUJUamg2UEVMa0IxcHhXRlJwX01JcFd4SnNjRVY4cWkyXzVtNkVSeWJzaXg4eDFhbDZ0T1IyVzhHb3dlRUVOT0VONTNKd0lFb0ZhTEtPUHZjUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T16:46:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "The surprising reason \u2018Conan the Bacterium\u2019 can withstand radiation that could kill a human - CNN",
+            "description": "A type of bacteria dubbed \u201cConan the Bacterium\u201d can withstand radiation thousands of times stronger than what can kill a human. Now, scientists have figured out why.",
+            "url": "https://www.cnn.com/2024/12/11/science/conan-the-bacterium-antioxidant/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/conan-800x600.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-12-11T16:43:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter.\u00a0Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA type of bacteria called Deinococcus radiodurans, nic\u2026 [+4656 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Bloomberg",
+            "title": "Elon Musk\u2019s Net Worth Tops $400 Billion, a Historic First - Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnI5V1ltclotN01SanNLakRRXzMxZER5NTQwZjM5WTRrM1NVREU1VmZVazFNbS1yRmJHeUZ4TTUzbHphR2pZMXN1SFRpMlAydXJyZ212MlEyczNGaUlXeFM2dkJ5anllQ0JtM09GM1IyUTVqYVFFVWpzNk1sSVlIS0l3OVRDU0VWcUhRZ201a2t0a2w4TTJGclFGaVdSU2pjdG4xazFUcw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T16:41:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Maya Gebeily, Timour Azhari",
+            "title": "Syria's Golani vows to punish those responsible for torture under Assad - Reuters",
+            "description": "The main commander of the fighters who toppled Bashar al-Assad said on Wednesday that anyone involved in the torture or killing of detainees during the ousted Syrian president's rule would be hunted down, and pardons were out of the question.",
+            "url": "https://www.reuters.com/world/middle-east/refugees-return-syria-caretaker-prime-minister-appointed-2024-12-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/56KVSFWYOFLQBCUUC5DO6D6YYA.jpg?auth=e45d13170ac6c00c32bcd4a61cb31f22fb662455001fecafee71e44ad354b466&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-11T16:31:04Z",
+            "content": "DAMASCUS, Dec 11 (Reuters) - The main commander of the fighters who toppled Bashar al-Assad said on Wednesday that anyone involved in the torture or killing of detainees during the ousted Syrian pres\u2026 [+5386 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "Dengue fever deaths surge in Caribbean and Americas due to climate crisis - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREJlS2dPTTZzdHl3V3VzYkNxb25lWjdCUEtkRnIzelRHV19RaEVFYVdmU3hvbkltTVJ2a29pU2taQ3k5eVl5ck5hWG1OMlJQX1pkMl9INFMyZGdOMGdEa2t6X1pCWVRraGpDSXdVcERENFZxUnlhZzZwaUR2aVpWNHFMOFY3eEJQNUdHctIBjAFBVV95cUxOek0wLUV3bE0zNGxybGo4YTZCWlhqWmpQNmVNXzhQdGFaVlJPT3plSXRYLTEzbzZYdHFWYVZJaEZ1a0xWaGVRcHRzSXBtWTFqcDNBX01XekotdHducDRON0J0RTNJTXZhNlcybmM3dmp2ams3U1ZDSUFjakR0NTlrbHUyOTUtUmFvbl9BQw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T16:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Saudi Arabia named FIFA World Cup 2034 host; Morocco to co-stage 2030 - Al Jazeera English",
+            "description": "FIFA Congress confirms the Middle East nation\u2019s bid for 2034 \u2013 with Morocco, Spain and Portugal to co-host 2030 edition.",
+            "url": "https://www.aljazeera.com/sports/2024/12/11/saudi-arabia-named-fifa-world-cup-2034-host-morocco-to-co-stage-2030",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/12/AFP__20241211__36Q348K__v1__HighRes__FblSaudiFifaWc2034-1733933719.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-12-11T15:54:52Z",
+            "content": "The world footballing body, FIFA, has officially named Saudi Arabia as the host nation of the FIFA World Cup 2034.\r\nThe Extraordinary FIFA Congress meeting, held on Wednesday, also confirmed Morocco,\u2026 [+1859 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Finance",
+            "title": "Is Google\u2019s (GOOG) New Quantum Chip A Bitcoin and NVDA Killer? - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWFiTldYTzJkcDgzRzkwWFRINXJDRE1sbVpodzBodXVSWHBRZ0UtUjI3RXBzMnVRek1ITkthOHo4SkJpNzJOdlRFbldwOG5DR25jR0FEVFZBU3dMQUUwWGVwQ3pOdFNXQXg0anFIVTdpRExXelllUjgwb04zUFNZN1lzVFI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:47:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Verge",
+            "title": "Google is testing Gemini AI agents that help you in video games - The Verge",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajVWQXVYZmdwLVZxSTh1eE1MMFNBQWVOVEJvbEhCaUdUYjVjVUVnRk9LTUdGUkdmbFg1eDZhaGFFTWdpMHZLcE5VMmNtQnB6Nm4xbDZ2alVQdHNzRGlja1Iwa1pBYUlXUk9OVTV2dU9hRC1KT0x3VEtCQnBjRExNR3JRUHhQOG5rMjNvcmdPRG1VQkwyMTRSaTNGdFJVUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "ABC News",
+            "title": "California child suspected of getting bird flu after drinking raw milk - ABC News",
+            "description": null,
+            "url": "https://abcnews.go.com/Health/california-child-suspected-bird-flu-drinking-raw-milk/story?id\\\\u003d116675407",
+            "urlToImage": null,
+            "publishedAt": "2024-12-11T15:26:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Lucia Mutikani",
+            "title": "US consumer prices post largest gain in seven months; cost of rent subsides - Reuters",
+            "description": "U.S. consumer prices increased in November by the most in seven months, but the Federal Reserve was still expected to deliver a third consecutive interest rate cut next week to support a labor market that has been cooling.",
+            "url": "https://www.reuters.com/markets/us/us-consumer-prices-post-largest-gain-seven-months-november-2024-12-11/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/FW3VB6V6UBORLADFA55YIH72NI.jpg?auth=1f3b5d5d89d70052d3d141f094be12a1c0124cf0eeda6ed643f2fedcdf24f502&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-12-11T15:21:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Kyle Cheney, Megan Messerly",
+            "title": "Trump outran the law. His allies haven\u2019t. - POLITICO",
+            "description": "Dozens of Trump allies face criminal charges in lingering cases over efforts to overturn the 2020 election.",
+            "url": "https://www.politico.com/news/2024/12/11/trump-allies-state-legal-challenges-000246",
+            "urlToImage": "https://static.politico.com/6c/38/ff99fc5d4abcb6ccc04b98707389/trump-hush-money-64055.jpg",
+            "publishedAt": "2024-12-11T15:00:00Z",
+            "content": "The two most broad and perilous cases, in Arizona and Georgia, allege Trump helped direct a sweeping plot to overturn his loss to Joe Biden. Dozens of alleged co-conspirators face wide-ranging felony\u2026 [+9485 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "NFL will play its first regular-season game in Berlin in 2025 - NBC Sports",
+            "description": "Berlin is the latest city confirmed as a host of the NFL's series of international games.",
+            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-play-its-first-regular-season-game-in-berlin-in-2025",
+            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/b14534a/2147483647/strip/true/crop/4465x2512+0+233/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F53%2F7af9c7df4371a52332ede7dd9da5%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2187729315",
+            "publishedAt": "2024-12-11T14:52:09Z",
+            "content": "Berlin is the latest city confirmed as a host of the NFLs series of international games.\r\nThe NFL announced today that a regular-season game in 2025 will be played at Berlin Olympic Stadium. The leag\u2026 [+669 chars]"
+        }
+    ]
+}
